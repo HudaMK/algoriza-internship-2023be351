@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Algoriza BackEnd Internship\\algoriza-project-backend351\\Services\\Services.csproj": {}
+    "F:\\Algoriza BackEnd Internship\\algoriza-project-backend351\\New folder\\algoriza-internship-2023be351\\Services\\Services.csproj": {}
   },
   "projects": {
-    "F:\\Algoriza BackEnd Internship\\algoriza-project-backend351\\Services\\Services.csproj": {
+    "F:\\Algoriza BackEnd Internship\\algoriza-project-backend351\\New folder\\algoriza-internship-2023be351\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Algoriza BackEnd Internship\\algoriza-project-backend351\\Services\\Services.csproj",
+        "projectUniqueName": "F:\\Algoriza BackEnd Internship\\algoriza-project-backend351\\New folder\\algoriza-internship-2023be351\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "F:\\Algoriza BackEnd Internship\\algoriza-project-backend351\\Services\\Services.csproj",
+        "projectPath": "F:\\Algoriza BackEnd Internship\\algoriza-project-backend351\\New folder\\algoriza-internship-2023be351\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Good-Day-\\.nuget\\packages\\",
-        "outputPath": "F:\\Algoriza BackEnd Internship\\algoriza-project-backend351\\Services\\obj\\",
+        "outputPath": "F:\\Algoriza BackEnd Internship\\algoriza-project-backend351\\New folder\\algoriza-internship-2023be351\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
