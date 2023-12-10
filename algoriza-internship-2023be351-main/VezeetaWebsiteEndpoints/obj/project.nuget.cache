@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "W67yw/yomxg8Y3QEzMWvqsr0v6DO2H72gduJAPe/5MQgUTMrKOwVbQmsGx4q9Y/TWOlA0vNq70ucpjm7z8EWug==",
+  "success": true,
+  "projectFilePath": "F:\\Algoriza BackEnd Internship\\algoriza-project-backend351\\VezeetaWebsiteEndpoints\\VezeetaWebsiteEndpoints.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Good-Day-\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Good-Day-\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Good-Day-\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Good-Day-\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Good-Day-\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Good-Day-\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
